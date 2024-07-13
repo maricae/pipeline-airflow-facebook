@@ -1,0 +1,10 @@
+*.err
+*.log
+*.pid
+*.out
+.env
+logs/
+dags/sql/__pycache__/*
+dags/handles/__pycache__/*
+dags/__pycache__/*
+airflow.cfg
